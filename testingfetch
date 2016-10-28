@@ -2,3 +2,7 @@ Testing fetch
 
 Hang tight
 
+That worked OK with doing a git pull.
+
+Let's try running git fetch then git merge
+
